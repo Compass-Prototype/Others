@@ -37,7 +37,7 @@ By calculating those data, in 2024 over 39k startup falis due to poor product ma
 
 
 ![startups by countries](./continents.png)
-
+ 
 The US and UK, India, China, Canada, Singapore, and Germany each have more than active 100 FinTech startups, and Brazil is not far behind.
 
 
