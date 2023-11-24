@@ -17,11 +17,10 @@
 - [Competitors](https://github.com/Compass-Prototype/Others/raw/main/docs/competitors.md)
 ## Technical part
 - [ER Modell](https://github.com/Compass-Prototype/Others/blob/main/docs/ER.md)
-**Technical Description: Compass App**
 
 The Compass app is developed using `.NET 6.0.0` for the backend and `React` for the frontend. It is hosted on `Netlify`, providing a scalable and efficient deployment.
 
-**Key Technologies:**
+
 - **Backend:** `.NET 6.0.0`, `JWT`
 - **Frontend:** `React`
 - **Hosting:** `Netlify`
