@@ -43,5 +43,5 @@ Built on `.NET 6.0.0`, the backend follows best practices with a modular archite
 The development workflow includes version control with `Git`, continuous integration, and deployment automation on `Netlify`.
 
 **Live Application:**
-[Compass App on Netlify](https://compassai.netlify.app/)
+[Compass App on Netlify](https://compassai.netlify.app/) (In progress)
 
