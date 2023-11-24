@@ -1,7 +1,7 @@
 # Compass market resource
 
 ![startups](./startups.bmp)
-Estimate of the yearly number of founded startups in Europe by accounting for 22% growth, as shown in the graph abow. 
+Estimate of the yearly number of founded startups in Europe by accounting for 22% growth, as shown in the graph above. 
 
 (If we define startup as follows:
 - it’s a product-based company (no agencies or consultancies)
